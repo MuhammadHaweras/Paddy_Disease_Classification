@@ -15,8 +15,8 @@ st.markdown("""
 
 ### 👨‍💻 Developed by: [**Muhammad Haweras**]
 
-[![LinkedIn](https://img.shields.io/badge/Connect-Muhammad%20Haweras-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-haweras-7aa6b11b2/)
-[![GitHub](https://img.shields.io/badge/GitHub-MuhammadHaweras-100000?logo=github&logoColor=white)](https://github.com/MuhammadHaweras)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-haweras-7aa6b11b2/)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?logo=github&logoColor=white)](https://github.com/MuhammadHaweras)
 
 ---
 ### 🌱 What is *Paddy*?
