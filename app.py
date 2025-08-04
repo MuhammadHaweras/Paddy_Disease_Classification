@@ -29,7 +29,18 @@ Paddy refers to the **rice plant** in its raw, unprocessed form. It is one of th
 model_path = "rice_disease_model.keras"
 model = tf.keras.models.load_model(model_path)
 
-class_names = sorted(os.listdir("balanced_images"))
+class_names = [
+    'bacterial_leaf_blight',
+    'bacterial_leaf_streak',
+    'bacterial_panicle_blight',
+    'blast',
+    'brown_spot',
+    'dead_heart',
+    'downy_mildew',
+    'hispa',
+    'normal',
+    'tungro'
+]
 
 st.markdown('<h3>🌿 Upload a Rice Leaf Image to Diagnose Disease</h3>', unsafe_allow_html=True)
 
